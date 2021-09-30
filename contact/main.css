@@ -52,6 +52,7 @@ section{
 }
 a {
 	text-decoration: none;	
+	color: inherit;
 }
 .links{
     margin: 15px 0;
