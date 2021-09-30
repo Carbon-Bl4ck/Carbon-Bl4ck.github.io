@@ -50,6 +50,9 @@ section{
     margin: 0 auto;
     line-height: 1.7;
 }
+li {
+	text-decoration: none;	
+}
 .links{
     margin: 15px 0;
 }
