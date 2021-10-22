@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+h2, p { margin-bottom: 2.4rem;}
+
+h1	{ font: 700 2.0rem/1.2 "Playfair Display"; color: hsl(); }
+h2	{ font: 400 1.5rem/1.2 "Playfair Display"; color: hsl(); }
+time	{ font: 700 1rem/1.2 "Playfair Display";   color: hsl(0,   0%, 60%); }
+h3	{ font: 700 1rem/1.2 "Playfair Display";   color: hsl(0,   0%, 67%); }
+p	{ font: 400 1rem/1.5 "Playfair Display";   color: hsl(); }
+figcaption p { font: 400 1.0rem/1.5 "Playfair Display"; color: hsl(000, 000%, 83%); }
+.brand-title { font-family: "Playfair Display" ;}
+.navbar-links{ font-family: "Playfair Display" ;}
+
+.underline { box-shadow: inset 0 -0.25em hsl(204, 2%, 56%); }
+@media (max-width: 8.5in) { :root { font-size: 18px; } }
+@media (max-width: 5.0in) { :root { font-size: 16px; } }
