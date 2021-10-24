@@ -107,7 +107,7 @@ section{
     }
     .image{
         height: 100vh;
-	padding: 10px, 10px, 10px, 10px;
+	border: 10px solid #777;
     }
     .content{
         height: 100vh;
