@@ -21,6 +21,7 @@ section{
 }
 .image{
     background: url("pxfuel.com.jpg") center/cover no-repeat;
+    border: 10px solid #fff;
 }
 .content{
     background: #fff;
