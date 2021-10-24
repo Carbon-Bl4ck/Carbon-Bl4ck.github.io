@@ -21,6 +21,7 @@ section{
 }
 .image{
     background: url("Cian.JPG") center/cover no-repeat;
+    border: 1px solid red;
 }
 .content{
     background: #fff;
@@ -107,7 +108,6 @@ section{
     }
     .image{
         height: 100vh;
-	border: 10px solid red;
     }
     .content{
         height: 100vh;
