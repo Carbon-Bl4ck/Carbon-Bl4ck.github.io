@@ -21,6 +21,7 @@ section{
 }
 .image{
     background: url("Cian.JPG") center/cover no-repeat;
+    padding: 10px 10px 10px 10px;
 }
 .content{
     background: #fff;
