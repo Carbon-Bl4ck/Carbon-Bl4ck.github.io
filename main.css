@@ -20,7 +20,7 @@ section{
     margin: 0 auto;
 }
 .image{
-    background: url("./Cian.JPG") center/cover no-repeat;
+    background: url('Cian.JPG') center/cover no-repeat;
     border: 10px solid #fff;
 }
 .content{
